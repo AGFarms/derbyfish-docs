@@ -1,5 +1,5 @@
 # Derby.Fish
-## Milestones
+# Milestones
 ### Derby.Fish Lighthouse
 Derby.Fish Lighthouse is the name of the very first functional version of the Derby.Fish suite of software products
 - DerbyFish API
@@ -52,5 +52,23 @@ Key Features
 
 For more details and to access the codebase, visit our GitHub repository: derbyfish-captain.
 
-## Online Tools
+# Online Tools
 # Github
+GitHub is an integral part of our development workflow, serving as the platform where we track progress and milestones for our various codebases. It provides a centralized location for managing our projects, facilitating collaboration, and ensuring transparency throughout the development process.
+
+Key Uses of GitHub:
+
+Progress Tracking: GitHub allows us to monitor the progress of each feature and project through issues, pull requests, and project boards. This helps keep everyone on the same page and ensures that development is moving forward according to our plans.
+
+Milestones Management: We use GitHub to set and track milestones for key features and releases. This helps us manage deadlines and ensures that we are meeting our development goals in a timely manner.
+
+Multistep Development Process: Every feature undergoes a structured, multistep process before being integrated into the main application. This process includes:
+- Feature Planning: Initial discussion and planning, tracked through GitHub Issues and Project Boards.
+- Development: Code is developed in feature branches, with progress monitored through pull requests.
+- Review: Code reviews and testing are conducted through pull requests to ensure quality and functionality.
+- Integration: Approved features are merged into the main branch after thorough testing and review.
+- Deployment: Final integration and deployment to production are managed and tracked through GitHub’s deployment tools.
+
+By leveraging GitHub’s tools and features, we ensure a smooth and efficient development cycle, maintain high code quality, and achieve our project milestones effectively.
+
+For more information and to explore our repositories, visit our GitHub organization.
