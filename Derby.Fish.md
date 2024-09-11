@@ -53,7 +53,7 @@ Key Features
 For more details and to access the codebase, visit our GitHub repository: derbyfish-captain.
 
 # Online Tools
-# Github
+## Github
 GitHub is an integral part of our development workflow, serving as the platform where we track progress and milestones for our various codebases. It provides a centralized location for managing our projects, facilitating collaboration, and ensuring transparency throughout the development process.
 
 Key Uses of GitHub:
@@ -72,3 +72,25 @@ Multistep Development Process: Every feature undergoes a structured, multistep p
 By leveraging GitHub’s tools and features, we ensure a smooth and efficient development cycle, maintain high code quality, and achieve our project milestones effectively.
 
 For more information and to explore our repositories, visit our GitHub organization.
+
+## Supabase
+
+Supabase plays a crucial role in our infrastructure by providing robust database management and storage solutions for our application. We use Supabase in two distinct environments to ensure smooth development and deployment processes:
+
+- Development Environment: Our dev Supabase project is used for development and testing purposes. It allows our team to work on new features, perform experiments, and conduct thorough testing without affecting the live environment.
+
+- Live Environment: The live Supabase project is dedicated to our production environment. This is where the application’s live data is managed, ensuring that all user interactions and media files are stored securely and reliably.
+
+Key Features and Benefits of Supabase:
+
+- Database Management: Supabase provides a powerful and scalable database management system that supports real-time capabilities and complex queries. It ensures that our application data is managed efficiently and can scale with our needs.
+
+- Persistent and Trusted Storage: We use Supabase for storing all media files used within the application. Its reliable storage solutions ensure that media files are kept safe, accessible, and well-integrated with our database.
+
+- Authentication: Supabase offers built-in authentication features, allowing us to manage user identities and permissions securely. This integration simplifies user login processes and enhances overall security.
+
+- High Availability: Supabase is a highly available, hosted platform that provides the reliability and performance required for a professional-grade application. Its infrastructure supports our needs for continuous operation and minimal downtime.
+
+By leveraging Supabase’s comprehensive suite of features, we ensure that our application benefits from a reliable, scalable, and secure backend infrastructure, enabling us to deliver a high-quality experience to our users.
+
+For more information about Supabase, visit their official website.
