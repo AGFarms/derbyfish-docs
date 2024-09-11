@@ -38,9 +38,19 @@ Key Features
 
 For more information and to view the codebase, visit our GitHub repository: derbyfish-native.
 
-### Derby.Fish Captain
-description: 
-github repo: derbyfish-captain
+# Derby.Fish Captain
+Description
+
+Derby.Fish Captain is the comprehensive admin console for the Derby.Fish suite of software products. Designed specifically for administrative use, this tool empowers administrators with robust capabilities to manage and oversee the entire Derby.Fish ecosystem.
+
+Through Derby.Fish Captain, admins can efficiently handle a variety of tasks including the creation, deletion, and updating of leagues and derbies. It also includes advanced CRM features to facilitate the management of user interactions and support. Additionally, the console integrates with Stripe to streamline onboarding processes for leagues and derbies, enabling seamless payment processing and financial management.
+Key Features
+
+- League and Derby Management: Create, update, and delete leagues and derbies with ease.
+- CRM Capabilities: Access and manage customer relationship data to improve user engagement and support.
+- Stripe Integration: Onboard leagues and derbies with Stripe for efficient payment processing and financial operations.
+
+For more details and to access the codebase, visit our GitHub repository: derbyfish-captain.
 
 ## Online Tools
 # Github
