@@ -16,11 +16,11 @@ When a user submits a request through the API, the server first authenticates th
 By centralizing database interactions through the API server, we provide a secure and consistent way to handle user commands and ensure that all actions are properly authorized and executed.
 Key Features
 
-    Authentication: Validates user identity before processing any requests.
-    Command Execution: Handles a variety of user commands, including creating and updating posts, and modifying user profiles.
-    Centralized Data Management: Manages all database interactions through a single API endpoint to maintain consistency and security.
+  - Authentication: Validates user identity before processing any requests.
+  - Command Execution: Handles a variety of user commands, including creating and updating posts, and modifying user profiles.
+  - Centralized Data Management: Manages all database interactions through a single API endpoint to maintain consistency and security.
 
-For more details, visit our GitHub repository: derbyfish-api.
+For more details, visit our GitHub repository: AGFarms/derbyfish-api
 
 ### Derby.Fish Native
 descriptio: 
