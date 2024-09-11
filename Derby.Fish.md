@@ -9,7 +9,7 @@ Derby.Fish Lighthouse is the name of the very first functional version of the De
 The Derby.Fish development team plans to complete a prototype version of Lighthouse prior to October 1st.
   
 # Derby.Fish API
-Description
+## Description
 
 The Derby.Fish API server is the central component of the Derby.Fish software suite, acting as the main interface for all interactions with the underlying database. All operations related to data management and user interactions are channeled through this API server.
 
@@ -39,7 +39,7 @@ Key Features
 For more information and to view the codebase, visit our GitHub repository: derbyfish-native.
 
 # Derby.Fish Captain
-Description
+## Description
 
 Derby.Fish Captain is the comprehensive admin console for the Derby.Fish suite of software products. Designed specifically for administrative use, this tool empowers administrators with robust capabilities to manage and oversee the entire Derby.Fish ecosystem.
 
