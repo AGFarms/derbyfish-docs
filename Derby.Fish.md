@@ -5,6 +5,8 @@ Derby.Fish Lighthouse is the name of the very first functional version of the De
 - DerbyFish API
 - DerbyFish Native
 - DerbyFish Captain
+
+The Derby.Fish development team plans to complete a prototype version of Lighthouse prior to October 1st.
   
 # Derby.Fish API
 Description
@@ -22,9 +24,20 @@ Key Features
 
 For more details, visit our GitHub repository: AGFarms/derbyfish-api
 
-### Derby.Fish Native
-descriptio: 
-github repo: derbyfish-native
+# Derby.Fish Native
+## Description
+
+Derby.Fish Native is the primary client interface for interacting with the Derby.Fish suite of software products. It is built using Expo Go, enabling it to target iOS, Android, and web platforms simultaneously. This cross-platform approach ensures a seamless and consistent user experience across different devices.
+
+As the main client application, Derby.Fish Native provides users with an intuitive and engaging interface to access and manage their Derby.Fish account, interact with various features, and execute commands. Whether on a mobile device or a web browser, users can efficiently navigate through their profiles, view and create posts, and perform other key functions of the Derby.Fish ecosystem.
+Key Features
+
+    Cross-Platform Compatibility: Available on iOS, Android, and web, offering a unified experience across all devices.
+    User Interface: Provides an intuitive and responsive design tailored for easy interaction with the Derby.Fish suite.
+    Seamless Integration: Connects smoothly with the Derby.Fish API to ensure real-time data synchronization and functionality.
+
+For more information and to view the codebase, visit our GitHub repository: derbyfish-native.
+
 ### Derby.Fish Captain
 description: 
 github repo: derbyfish-captain
