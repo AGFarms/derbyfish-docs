@@ -1,5 +1,15 @@
 # Derby.Fish
 # Milestones
+```mermaid
+gantt
+
+    title LightHouse Milestones
+    Week 1 :milestone, 2024-09-16,
+    Week 2 :milestone, 2024-09-23,
+    Week 3 :milestone, 2024-09-30,
+
+```
+
 ### Derby.Fish Lighthouse
 Derby.Fish Lighthouse is the name of the very first functional version of the Derby.Fish suite of software products
 - DerbyFish API
