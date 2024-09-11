@@ -4,8 +4,17 @@
 gantt
 
     title LightHouse Milestones
+    Start Date :milestone, 2024-09-12, 2024-09-12
+    DevOps : 2024-09-12, 2024-09-16 
+    Database : 2024-09-12, 2024-09-16 
+    CRUD API : 2024-09-12, 2024-09-16 
     Week 1 :milestone, 2024-09-16, 2024-09-16
+    
+    DerbyFish UI : 2024-09-16, 2024-09-23 
+    DerbyCaptain UI : 2024-09-16, 2024-09-23 
+    Front/Back Routes : 2024-09-16, 2024-09-23 
     Week 2 :milestone, 2024-09-23, 2024-09-23
+    Website : 2024-09-23, 2024-09-30 
     Week 3 :milestone, 2024-09-30, 2024-09-30
 
 ```
