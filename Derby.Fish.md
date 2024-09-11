@@ -13,7 +13,7 @@ gantt
     DerbyFish UI : 2024-09-16, 7d 
     DerbyCaptain UI : 2024-09-16, 7d 
     Stripe : 2024-09-16, 7d
-    Stripe : 2024-09-16, 7d
+    Functions/Algorithms : 2024-09-16, 7d
     Week 2 :milestone, 2024-09-23, 2024-09-23
     Website : 2024-09-23, 7d 
     Completing ALgorithms : 2024-09-23, 7d 
